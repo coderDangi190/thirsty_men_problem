@@ -1,0 +1,37 @@
+Here’s how the situation plays out with smart guests:
+
+## The Rule of the Game:=
+        Only the first and last cups in a row get filled with water. The middle cup stays empty. 
+        Guests need to place their cups in these positions to drink.
+
+## The Challenge:=
+
+->  Everyone wants water, but only two people can drink in each round.
+->  If guests fight for the spots or cheat, no one gets water.
+
+## The Smart Strategy:=
+
+** The guests agree to take turns for fairness:-
+        In the next round, they rotate positions, so everyone gets a chance to drink over time.
+        In Round 1, Guest 1 takes the first spot, Guest 2 takes the last spot, and Guest 3 takes the middle (empty) spot.
+
+## How It Works:=
+
+** After every round, the guests swap positions:-
+        The guest who had the first spot moves to the last spot.
+        The one at the last spot takes the middle (empty) position.
+        The one in the middle moves to the first spot.
+
+** Example with 4 Guests:-
+        Round 1: Guest 1 (First), Guest 2 (Last), Guest 3 (Middle), Guest 4 waits.
+        Round 2: Guest 2 (First), Guest 3 (Last), Guest 4 (Middle), Guest 1 waits.
+        Round 3: Guest 3 (First), Guest 4 (Last), Guest 1 (Middle), Guest 2 waits.
+
+** Why This Works:-
+        Everyone gets a fair chance over multiple rounds.
+        Guests avoid deadlocks by cooperating instead of fighting for spots.
+
+**If Someone Cheats:-
+        The group agrees to skip their turn next round, ensuring fairness through peer pressure.
+
+    Hence, This way everyone drinks without chaos!
